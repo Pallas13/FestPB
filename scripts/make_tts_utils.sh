@@ -20,7 +20,7 @@ git clone https://github.com/festvox/festival
 git clone https://github.com/festvox/festvox
 git clone https://github.com/festvox/flite
 
-wgeth https://festvox.org/packed/SPTK-3.6.tar.gz
+wget http://festvox.org/packed/SPTK-3.6.tar.gz
 tar zxvf SPTK-3.6.tar.gz
 
 export ESTDIR=`pwd`/speech_tools
