@@ -23,7 +23,7 @@ Aqui tem um tutorial básico de como fazer o download do repositório e instala�
 
 **Clone o repositório e entre em seu diretório:**
 ```bash
-git clone https://github.com/Pallas1303/FestPB
+git clone https://github.com/Pallas13/FestPB
 cd FestPB
 ```
 
